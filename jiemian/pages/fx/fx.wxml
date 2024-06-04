@@ -1,0 +1,5 @@
+<!--pages/fx/fx.wxml-->
+<view class="fx">分享</view>
+<view class="fx">
+<navigator open-type="navigateBack">请返回上一页</navigator>
+</view>

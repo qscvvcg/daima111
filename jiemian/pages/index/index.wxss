@@ -1,0 +1,86 @@
+.box1{
+color: white;
+background-color: black;
+height: 400rpx;
+width: 800rpx;
+text-align: center;
+}                                
+.box2{
+display: flex;
+justify-content: space-between;
+}
+.log{
+  display: flex;
+  flex-direction: column;
+  width: 55rpx;
+  height:60rpx;
+  margin-top: 20rpx;
+}
+.pag{
+  font-size: small;
+  margin-top: 10rpx;
+  display: flex;
+margin-left: 0rpx;
+  }
+  .ass{
+  font-size: small;
+  margin-top: -33rpx;
+  margin-left: 180rpx;
+   }
+   .dj  {
+  font-size: small;
+  margin-top: -36rpx;
+  margin-left: 355rpx;
+   }
+   .fx{
+    font-size: small;
+    margin-top: -34rpx;
+    margin-left: 525rpx;
+   }
+  .sz{
+    font-size: small;
+    margin-top: -34rpx;
+    margin-left: 700rpx;
+  }
+.box3{
+background-color: rgba(82, 81, 61, 0.658);
+height: 20rpx;
+width: 800rpx;
+margin-top: 40rpx;
+}
+.box4{
+background-color: rgb(166, 226, 179);
+height: 20rpx;
+width: 800rpx;
+}
+.box5{
+display: flex;
+flex-direction: column;
+margin-top: 40rpx;
+}
+.box6{
+margin-left: 60rpx;
+}
+.box7{
+margin-left: 500rpx;
+margin-top: -40rpx;
+}
+.box8{
+background-color: rgb(134, 130, 117);
+width: 600rpx;
+height: 0.5rpx;
+margin-top: 20rpx;
+margin-left: 60rpx;
+}
+.lo{
+margin-top: 100rpx;
+margin-left: -20rpx;
+width: 800rpx;
+height: 400rpx;
+}
+.box9{
+margin-left: 300rpx;
+ margin-top: 40rpx;
+}
+
+

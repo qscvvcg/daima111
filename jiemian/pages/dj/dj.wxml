@@ -1,0 +1,5 @@
+<!--pages/dj/dj.wxml-->
+<view class="dj">对讲</view>
+<view class="dj">
+<navigator open-type="navigateBack">请返回上一页</navigator>
+</view>

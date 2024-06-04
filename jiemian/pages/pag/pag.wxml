@@ -1,0 +1,5 @@
+<!--pages/pag/pag.wxml-->
+<view class="pag">云台</view>
+<view class="pag">
+<navigator open-type="navigateBack">请返回上一页</navigator>
+</view>

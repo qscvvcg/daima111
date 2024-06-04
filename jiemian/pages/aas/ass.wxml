@@ -1,0 +1,5 @@
+<!--pages/aas/ass.wxml-->
+<view class="ass">回放</view>
+<view class="ass">
+<navigator open-type="navigateBack">请返回上一页</navigator>
+</view>

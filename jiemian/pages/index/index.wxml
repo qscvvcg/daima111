@@ -1,0 +1,42 @@
+<navigation-bar title="摄像机"></navigation-bar>
+  <view class="box1" style="line-height: 400rpx;">
+  <view wx:for="{{arr1}}">
+    {{item}}
+  </view>
+  </view>
+  <view class="box2">
+  <image class="log" src="/components/image/1.png" mode=""/>  
+  <image class="log" src="../../components/image/2.png"mode=""/>
+  <image class="log" src="../../components/image/3.png"mode=""/>
+  <image class="log" src="../../components/image/4.png"mode=""/>
+  <image class="log" src="../../components/image/5.png"mode=""/>
+  </view > 
+  <view class="list">
+  <view  wx:for="{{arr2}}" class="pag">
+ <navigator url="/pages/pag/pag" open-type="navigate">{{item}}</navigator>
+ </view>
+ <view  wx:for="{{arr3}}" class="ass"> 
+ <navigator url="/pages/aas/ass" open-type="navigate">{{item}}</navigator>
+ </view>
+ <view wx:for="{{arr4}}" class="dj"> 
+ <navigator url="/pages/dj/dj" open-type="navigate">{{item}}</navigator>
+ </view>
+ <view wx:for="{{arr5}}" class="fx"> 
+ <navigator url="/pages/fx/fx" open-type="navigate">{{item}}</navigator>
+ </view>
+ <view wx:for="{{arr6}}" class="sz"> 
+ <navigator url="/pages/sz/sz" open-type="navigate">{{item}}</navigator>
+ </view>
+ </view>
+<view class="box3"></view>
+<view class="box4"></view>
+<view class="box5">
+<view wx:for="{{arr7}}" class="box6">{{item}}</view>
+<view wx:for="{{arr8}}"  class="box7">{{item}}</view>
+</view>
+<view class="box8">
+</view>
+<view>
+  <image class="lo" src="/components/image/微信图片_20240531193730.jpg"mode=""/>
+</view>
+ <view  wx:for="{{arr9}}" class="box9">{{item}}</view>

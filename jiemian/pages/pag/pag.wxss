@@ -1,0 +1,6 @@
+/* pages/pag/pag.wxss */
+.pag{
+  font-size: x-large;
+  margin-top: 200rpx;
+  margin-left: 100rpx;
+  }

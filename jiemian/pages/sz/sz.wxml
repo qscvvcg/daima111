@@ -1,0 +1,5 @@
+<!--pages/sz/sz.wxml-->
+<view class="sz">设置</view>
+<view class="sz">
+<navigator open-type="navigateBack">请返回上一页</navigator>
+</view>
